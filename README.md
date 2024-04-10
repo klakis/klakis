@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. 🔭 I’m currently working on my master thesis on random geometric graphs.🤔 I’m looking for help with simulating distances on SFP graphs.
 
 <!--
 **klakis/klakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
